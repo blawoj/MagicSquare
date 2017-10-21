@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MagicSquare</string>
+    <string name="dots">. . . .</string>
+    <string name="exit">Exit Game</string>
+    <string name="help">Help</string>
+    <string name="level">Level</string>
+    <string name="new_game">New Game</string>
+    <string name="conti">Continue?</string>
+    <string name="submit">Submit</string>
+</resources>
